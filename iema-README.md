@@ -50,9 +50,6 @@ detection outside the lab.
 
 ## My Role
 
-<!-- TODO: 본인이 직접 담당한 파트를 적어주세요 -->
-- (담당 파트를 채워주세요 — 예: 데이터 수집/실험 진행 / GMM 임계값 분석 / feature significance 분석 등)
-
 ## Repo Structure
 
 ```
