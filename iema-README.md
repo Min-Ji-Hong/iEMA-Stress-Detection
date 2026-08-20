@@ -2,7 +2,7 @@
 
 > Undergraduate research project (Summer 2026) — Hanyang University IMC Lab, advised by Prof. Youngtae Noh
 
-📄 [Presentation (paper_review_iEMA.pdf)]
+📄 [Presentation (paper_review_iEMA.pdf)](paper_review_iEMA.pdf)
 
 ---
 
